@@ -1,0 +1,1 @@
+I created an array consisting of eight rows and eight columns using the Windows Form Button class. I obtained a nested loop structure using for loops for rows and columns separately. I set the properties of my buttons for rows and columns separately within the loops. I determined the colors of my buttons using if-else conditional blocks.
